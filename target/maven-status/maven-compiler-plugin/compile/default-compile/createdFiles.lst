@@ -1,0 +1,6 @@
+com\dxc\WorkQueue\Consumer02$1.class
+com\dxc\util\RabbitUtil.class
+com\dxc\直连模式\Consumer$1.class
+com\dxc\直连模式\Producer.class
+com\dxc\直连模式\Consumer.class
+com\dxc\WorkQueue\Consumer02.class
